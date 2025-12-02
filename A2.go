@@ -16,7 +16,7 @@ import (
 )
 
 func main() {
-	
+
 	// declare variables
 	var rowsString string
 	var rowsFloat float64
